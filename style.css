@@ -1,6 +1,10 @@
+
 body{
     font-family: 'Roboto', sans-serif;
 
+}
+.bg-color{
+    background-color: #FFFBF0;
 }
 .navbar ul li{
     display: inline-block;
@@ -9,16 +13,98 @@ body{
     
 }
 h1{
-    font-family: 'Bebas Neue', cursive;
-
-font-size: 80px;
-
+font-family: 'Bebas Neue', cursive;
+font-size: 100px;
 font-weight: 500;
 line-height: 80px;
 letter-spacing: 1px;
 text-align: left;
 
 }
-#font-color{
+h2{
+    font-size: 60px;
+    font-weight: 700;
+    font-family: 'Bebas Neue', cursive;
+
+}
+h4{
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 80px;
+    text-align: left;
+    position: relative;
+    top:100px;
+    right: 70px;
+
+
+
+
+}
+.font-color{
     color: #FABE4C;
+}
+.profile-photo img{
+    width:100%;
+    
+    
+     
+}
+.font-size{
+    font-size: 20px;
+    color:dimgrey;
+}
+.button{
+    background-color: #8EA927;
+    padding: 15px 50px;
+    margin:20px 10px;
+    border-radius: 15px;
+    background-image:url(icons/shopping-cart\ 1.png);
+    background-repeat:no-repeat;
+    background-position: 30px;
+    background-size: 40px;
+    position: relative;
+
+    left: 100px;
+    
+}
+.buttons-font{
+    color:white;
+   position: relative;
+   left:20px;
+   font-size:20px;
+}
+.jacket-image{
+    width: 300px; 
+    height: 400px;
+    
+    
+    
+}
+.bg-colo img{
+    background-color: #F1F1F1;
+    border-radius: 10px;
+}
+.shop-card-footer{
+    background-color:white;
+    border: 0;
+}
+.card{
+    border: 0;
+    
+
+}
+
+
+.image-shape{
+    width:80px;
+    height: auto;
+}
+.contact-us{
+    border-radius: 10px;
+    
+}
+.product-slide{
+    background-color: lightpink;
+    width: 1200px;
+    
 }
