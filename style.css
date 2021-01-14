@@ -61,10 +61,10 @@ h4{
     background-image:url(icons/shopping-cart\ 1.png);
     background-repeat:no-repeat;
     background-position: 30px;
-    background-size: 40px;
+    background-size: 20px;
     position: relative;
 
-    left: 100px;
+    left: 80px;
     
 }
 .buttons-font{
