@@ -1,0 +1,24 @@
+body{
+    font-family: 'Roboto', sans-serif;
+
+}
+.navbar ul li{
+    display: inline-block;
+    line-height: 120px;
+    margin:0 30px;
+    
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+
+font-size: 80px;
+
+font-weight: 500;
+line-height: 80px;
+letter-spacing: 1px;
+text-align: left;
+
+}
+#font-color{
+    color: #FABE4C;
+}
